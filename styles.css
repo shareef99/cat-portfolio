@@ -5,7 +5,6 @@
   --purple: #682689;
   --purple-dark: #551873;
   --black: #000;
-
   --green: #a9ff4b;
   --blue: #01009e;
 }
@@ -42,6 +41,7 @@ nav li {
 
 .logo img {
   border-radius: 9999px;
+  cursor: pointer;
 }
 
 /* Hero Section Styles */
